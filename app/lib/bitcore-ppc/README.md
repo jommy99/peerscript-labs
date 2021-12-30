@@ -1,2 +1,2 @@
-# bitcore-ppc
-bitcore-lib patch to work on peercoin
+# bitcore-pnd
+bitcore-lib patch to work on pandacoin
